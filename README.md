@@ -1,20 +1,17 @@
-# URI Online Judge - Solutions C/C++
+# URI Online Judge - Solutions - C
 
-Soluções para os problemas do URI Online Judge  (C/C++)
+Soluções para os problemas do URI Online Judge em C
 
-_Solution to the problems of URI Online Judge (C/C++)_
+_Solution to the problems of URI Online Judge in C_
 
-URI Online Judge:
+**URI Online Judge:**
 [Click Here](https://www.urionlinejudge.com.br/)
 
-Resoluções:
+**Resoluções:
 
-_Resolutions:_
+**_Resolutions:_
 
-*1001
-
-*1002 (To Do)
-
-*1003 (To Do)
-
-*1004 (To Do)
+- 1001
+- 1002 (To Do)
+- 1003 (To Do)
+- 1004 (To Do)
