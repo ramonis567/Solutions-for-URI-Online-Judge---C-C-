@@ -7,11 +7,18 @@ _Solution to the problems of URI Online Judge in C_
 **URI Online Judge:**
 [Click Here](https://www.urionlinejudge.com.br/)
 
-**Resoluções:
+**Resoluções:**
 
-**_Resolutions:_
+**_Resolutions:_**
 
-- 1001
-- 1002 (To Do)
-- 1003 (To Do)
-- 1004 (To Do)
+:pencil: - `:pencil:` - Em andamento 
+
+:heavy_check_mark: - `:heavy_check_mark:` - Concluído
+
+Problem Nº| Nome | categoria | Status |
+----------|-----------------------------|----------------|-------------|
+1001 | Extremamente Básico | Iniciante | :heavy_check_mark:
+1002 | Área do círculo | Iniciante | :pencil:
+1003 | Soma simples | Iniciante | :pencil:
+1004 | Produto simples | Iniciante | :pencil:
+
